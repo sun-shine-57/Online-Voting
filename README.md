@@ -74,5 +74,5 @@ Once the server has started please visit /sync route to sync the database
 
 ## Authors
 
-- [@Devdeep](https://www.github.com/thedevildude)
+- [@Nishu](https://www.github.com/sun-shine-57)
 
